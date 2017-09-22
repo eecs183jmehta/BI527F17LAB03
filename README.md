@@ -2,6 +2,6 @@
 My first git repo.
 ## files:
 
- +firstdoc.py
- +firstdoc.md
+ + firstdoc.py
+ + firstdoc.md
  
